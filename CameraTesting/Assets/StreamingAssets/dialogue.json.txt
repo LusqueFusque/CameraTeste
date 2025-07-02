@@ -1,0 +1,19 @@
+{
+  "dialogue": [
+    {
+      "character": "Cherry",
+      "sprite": "Cherry_cola_cookie",
+      "text": "Oi Cream! Você viu meu foguete de garrafa?"
+    },
+    {
+      "character": "Cream",
+      "sprite": "Cream_soda_cookie",
+      "text": "Não, Cherry. Você o deixou perto da fonte de soda de novo?"
+    },
+    {
+      "character": "Cherry",
+      "sprite": "Cherry_cola_cookie",
+      "text": "Talvez… Mas foi por uma boa causa!"
+    }
+  ]
+}
